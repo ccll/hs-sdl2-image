@@ -29,7 +29,7 @@ library
     SDL2_image >= 2.0.0
 
   build-depends:
-    base >= 4.6 && < 4.8,
+    base >= 4.6 && < 4.9,
     sdl2 >= 1.0 && < 1.4
 
   hs-source-dirs:
