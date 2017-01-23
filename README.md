@@ -1,3 +1,5 @@
+##[This project is not maintained actively, and the sdl2-image package on Hackage is now maintained by https://github.com/sbidin/sdl2-image]
+
 hs-sdl2-image
 =============
 
